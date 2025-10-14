@@ -12,7 +12,7 @@
   <a href="https://myanimelist.net/profile/haniluvr"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2.svg?logo=MyAnimeList&logoColor=white"></a>
 </div>
 
-<img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.8&align=center&pixelated=0&darkmode=auto"  />
+<img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.75&align=center&pixelated=0&darkmode=auto"  />
 
 > 🧑‍💻 IT major with a focus on UX/UI design <br>
 > 💾 Background knowledge in backend development <br>
@@ -21,9 +21,9 @@
 > ✨ Always exploring ways to blend creativity and functionality
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="124" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="124" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="124" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
 </div>
 
 
