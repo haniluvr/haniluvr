@@ -21,15 +21,15 @@
       </ul>
     </td>
     <td>
-      <img src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.9&align=center&pixelated=0&darkmode=auto"  />
+      <img src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.7&align=center&pixelated=0&darkmode=auto"  />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
 </div>
 
 
