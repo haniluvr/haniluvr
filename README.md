@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.5&align=center&pixelated=0&darkmode=auto"  />
+      <img src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.6&align=center&pixelated=0&darkmode=auto"  />
     </td>
   </tr>
 </table>
