@@ -1,4 +1,7 @@
-<h1 align="center">-ˋˏ いらっしゃいませ ˎˊ-</h1>
+<div align="center">
+  <img src="https://i.imgur.com/7cT9EKB.png"  />
+</div>
+<h1 align="center">-ˋˏ もし もし! ˎˊ-</h1>
 <div align="center">
   <a href="https://discordapp.com/users/914445892180906005"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
   <a href="https://instagram.com/hvniluvr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -8,23 +11,14 @@
   <a href="https://pinterest.com/haniluvr"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
   <a href="https://myanimelist.net/profile/haniluvr"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2.svg?logo=MyAnimeList&logoColor=white"></a>
 </div>
-<br>
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🧑‍💻 IT major with a focus on UX/UI design</li>
-        <li>💾 Background knowledge in backend development</li>
-        <li>🎯 Passionate about user-centered design and intuitive experiences</li>
-        <li>☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity</li>
-        <li>✨ Always exploring ways to blend creativity and functionality</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.7&align=center&pixelated=0&darkmode=auto"  />
-    </td>
-  </tr>
-</table>
+
+<img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.7&align=center&pixelated=0&darkmode=auto"  />
+
+> 🧑‍💻 IT major with a focus on UX/UI design <br>
+> 💾 Background knowledge in backend development <br>
+> 🎯 Passionate about user-centered design and intuitive experiences  <br>
+> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity <br>
+> ✨ Always exploring ways to blend creativity and functionality
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
