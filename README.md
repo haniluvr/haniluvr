@@ -14,29 +14,17 @@
 
 <img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.75&align=center&pixelated=0&darkmode=auto"  />
 
-> 🧑‍💻 IT major with a focus on UX/UI design. <br>
-> 💾 Background knowledge in backend development. <br>
-> 🎯 Passionate about user-centered design and intuitive experiences. <br>
-> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity. <br>
-> ✨ Always exploring ways to blend creativity and functionality.
+> 🧑‍💻 IT major with a focus on UX/UI design<br>
+> 💾 Background knowledge in backend development<br>
+> 🎯 Passionate about user-centered design and intuitive experiences<br>
+> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity<br>
+> ✨ Always exploring ways to blend creativity and functionality
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="125" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
 </div>
-
-
-<!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hvniluvr@gmail.com) 
-<table valign="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" alt="gmail logo"  />
-      <a href="mailto:hvniluvr@gmail.com">Gmail
-      </a>
-    </td>
-  </tr>
-</table>-->
 
 <h1 align="center">-ˋˏ 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 ˎˊ-</h1>
 <div align="center">
