@@ -32,7 +32,7 @@
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" alt="gmail logo"  />
-      <a href="mailto:hvniluvr@gmail.com">Email
+      <a href="mailto:hvniluvr@gmail.com">Gmail
       </a>
     </td>
   </tr>
