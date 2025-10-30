@@ -14,11 +14,11 @@
 
 <img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.75&align=center&pixelated=0&darkmode=auto"  />
 
-> 🧑‍💻 IT major with a focus on UX/UI design <br>
-> 💾 Background knowledge in backend development <br>
-> 🎯 Passionate about user-centered design and intuitive experiences  <br>
-> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity <br>
-> ✨ Always exploring ways to blend creativity and functionality
+> 🧑‍💻 IT major with a focus on UX/UI design. <br>
+> 💾 Background knowledge in backend development. <br>
+> 🎯 Passionate about user-centered design and intuitive experiences. <br>
+> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity. <br>
+> ✨ Always exploring ways to blend creativity and functionality.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
