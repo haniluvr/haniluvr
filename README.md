@@ -14,10 +14,10 @@
 
 <img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.75&align=center&pixelated=0&darkmode=auto"  />
 
-> 🧑‍💻 IT major with a focus on UX/UI design<br>
-> 💾 Background knowledge in backend development<br>
+> 🧑‍💻 IT major focusing on anything under the sun<br>
+> 💾 Full stack developer with background in LAMP and FERN stack architecture<br>
 > 🎯 Passionate about user-centered design and intuitive experiences<br>
-> ☁️ Currently diving deeper into automation, cloud infrastructure, and cybersecurity<br>
+> ☁️ Currently exploring AI, IoTs, cloud, infrastructure, and automations<br>
 > ✨ Always exploring ways to blend creativity and functionality
 
 <div align="center">
