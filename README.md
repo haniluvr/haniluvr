@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=haniluvr&theme=omni&hide_border=false" height="125" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=hvniluvr&theme=omni&card_height=125)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
 </div>
 
