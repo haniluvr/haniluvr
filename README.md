@@ -21,9 +21,9 @@
 > ✨ Always exploring ways to blend creativity and functionality
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haniluvr&theme=omni&hide_border=false" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=haniluvr&theme=omni&hide_border=false" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
 </div>
 
 <h1 align="center">-ˋˏ 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 ˎˊ-</h1>
