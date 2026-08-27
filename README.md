@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
 </div>
 
-<h1 align="center">-ˏ languages ˎˊ-</h1>
+<h1 align="center">-ˋˏ languages ˎˊ-</h1>
 <div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -37,7 +37,7 @@
 
 </div>
 
-<h1 align="center">-ˏ web technologies ˎ-</h1>
+<h1 align="center">-ˋˏ web tech ˎˊ-</h1>
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -45,7 +45,7 @@
 
 </div>
 
-<h1 align="center">-ˋˏ frameworks & libraries ˎˊ-</h1>
+<h1 align="center">-ˋˏ frameworks ˎˊ-</h1>
 <div align="center">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -57,7 +57,7 @@
 
 </div>
 
-<h1 align="center">-ˋˏ cloud & hosting ˎˊ-</h1>
+<h1 align="center">-ˋˏ cloud + hosting ˎˊ-</h1>
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -75,7 +75,7 @@
 
 </div>
 
-<h1 align="center">-ˏ devops & tools ˊ-</h1>
+<h1 align="center">-ˋˏ devops + tools ˎˊ-</h1>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
@@ -85,7 +85,7 @@
 
 </div>
 
-<h1 align="center">-ˋˏ design & creative ˎˊ-</h1>
+<h1 align="center">-ˋˏdesign + creative ˎˊ-</h1>
 <div align="center">
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
