@@ -4,7 +4,7 @@
 <h1 align="center">-ˋˏ もし もし! ˎˊ-</h1>
 <div align="center">
   <a href="https://ko-fi.com/haniluvr"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-  <a href="https://linkedin.com/in/haniluvr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/haniluvr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discordapp.com/users/914445892180906005"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
   <a href="https://instagram.com/hvniluvr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://threads.com/hvniluvr"><img src="https://img.shields.io/badge/Threads-000000.svg?logo=Threads&logoColor=white"></a>
