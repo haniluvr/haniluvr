@@ -124,6 +124,16 @@
 
 </div>
 
+<h1 align="center">-ˋˏ certifications ˎˊ-</h1>
+<div align="center">
+
+  <!-- Replace the href with your Credly badge URL, and src with the image URL -->
+  <a href="https://www.credly.com/badges/4ce54e10-4edf-445c-9e73-aa99858da070/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" alt="SAP Generative AI Developer" width="120" style="margin: 5px;">
+  </a>
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph-dark.svg">
