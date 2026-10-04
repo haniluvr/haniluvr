@@ -16,11 +16,11 @@
 
 <img align="right" src="https://count.getloli.com/@:haniluvr?theme=love-and-deepspace&padding=5&offset=0&scale=0.75&align=center&pixelated=0&darkmode=auto"  />
 
-> 🧑‍💻 IT major focusing on anything under the sun<br>
-> 💾 Full stack developer with background in LAMP and FERN stack architecture<br>
-> 🎯 Passionate about user-centered design and intuitive experiences<br>
-> ☁️ Currently exploring AI, IoTs, cloud, infrastructure, and automations<br>
-> ✨ Always exploring ways to blend creativity and functionality
+> 🎧 IT student with a background in architecture<br>
+> 🥡 Running on caffeine during weekdays, asleep like the dead during weekends<br>
+> 🖥️ Full-Stack Developer with experience in networking, system infrastructure and architecture, cloud, automation, AI/ML, IoTs, and game dev<br>
+> 🍥 Passionate in both visual design and system design<br>
+> 🐚 Currently working on a mobile 3D underwater exploration game with audio navigation and DDA
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
@@ -32,6 +32,7 @@
 <div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
