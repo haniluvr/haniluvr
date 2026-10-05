@@ -23,10 +23,26 @@
 > 🐚 Currently working on a mobile 3D underwater exploration game with audio navigation and DDA
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=haniluvr&theme=omni&date_format=j%2Fn%5B%2FY%5D&card_height=125" height="125" width="350" alt="github streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false" height="115" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=haniluvr&theme=omni&date_format=j%2Fn%5B%2FY%5D&card_height=115" height="115" width="325" alt="github streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=haniluvr&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="115" alt="languages graph"  />
 </div>
+
+<h1 align="center">-ˋˏ certifications ˎˊ-</h1>
+<div align="center">
+
+  <!-- Replace the href with your Credly badge URL, and src with the image URL -->
+  <a href="https://www.credly.com/badges/4ce54e10-4edf-445c-9e73-aa99858da070/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" alt="SAP Generative AI Developer" width="120" style="margin: 5px;">
+  </a>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph.svg">
+</picture>
 
 <h1 align="center">-ˋˏ languages ˎˊ-</h1>
 <div align="center">
@@ -123,23 +139,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </div>
-
-<h1 align="center">-ˋˏ certifications ˎˊ-</h1>
-<div align="center">
-
-  <!-- Replace the href with your Credly badge URL, and src with the image URL -->
-  <a href="https://www.credly.com/badges/4ce54e10-4edf-445c-9e73-aa99858da070/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" alt="SAP Generative AI Developer" width="120" style="margin: 5px;">
-  </a>
-
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haniluvr/haniluvr/output/pacman-contribution-graph.svg">
-</picture>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
