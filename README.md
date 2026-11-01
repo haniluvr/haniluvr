@@ -36,7 +36,7 @@
     <img src="https://images.credly.com/size/680x680/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" alt="SAP Generative AI Developer" width="120" style="margin: 5px;">
   </a>
   <a href="https://www.credly.com/badges/4291fe49-ebdf-4dff-a042-d147c0dee106/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/a4b6c832-f3f3-46ce-88de-9405aa0fa389/blob" alt="SAP Generative AI Developer" width="120" style="margin: 5px;">
+    <img src="https://images.credly.com/size/680x680/images/a4b6c832-f3f3-46ce-88de-9405aa0fa389/blob" alt="Integration Developer" width="120" style="margin: 5px;">
   </a>
   <br>
 
